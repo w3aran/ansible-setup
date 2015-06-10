@@ -12,3 +12,8 @@ Using Shell script:
 ```
 wget -O - https://raw.githubusercontent.com/w3aran/ansible-setup/master/install_ansible_on_ubuntu_14.sh | sh
 ```
+
+*To install on Debian:*
+```
+wget -O - https://raw.githubusercontent.com/w3aran/ansible-setup/master/install_ansible_on_debian.sh | sh
+```
